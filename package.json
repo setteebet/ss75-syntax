@@ -1,0 +1,18 @@
+{
+  "name": "ss75-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บรวยออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บรวยออนไลน์",
+"หวยเว็บ",
+"big lottovip",
+"เล่นหวยออนไลน์",
+"เลขอะไรดีงวดนี้"
+],
+  "repository": "https://github.com/setteebet/ss75-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
